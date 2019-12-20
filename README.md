@@ -6,7 +6,7 @@ This is a list of notes, resources and tutorials for Udacity's first phrase of c
 * [EC2](./02_create_ec2_with_storage)
 * [Cleanup VPC & EC2](./03_cleanup)
 * [Lamdba](./04_lambda)
-* [elastic beanstalk](./05_elastic_beanstalk)
+* [Elastic Beanstalk](./05_elastic_beanstalk)
 * [DynamoDb](./06_dynamo_db)
 * [RDS](./07_rds)
 * [Cloudfront](./08_cloud_front)
