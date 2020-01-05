@@ -17,4 +17,5 @@ This is a list of notes, resources and tutorials for Udacity's first phrase of c
 * [Cloudformation UI](./13_cloudformation_ui)
 * [IAM for Cloudformation](./14_iam)
 * [Cloudformation CLI](./15_cloudformation_cli)
+* [Networking infrastructure](./21_networking_infrastructure)
 
